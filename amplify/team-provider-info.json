@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-lalalsadmin-dev-120824-authRole",
+      "UnauthRoleArn": "arn:aws:iam::796402771254:role/amplify-lalalsadmin-dev-120824-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::796402771254:role/amplify-lalalsadmin-dev-120824-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-lalalsadmin-dev-120824-deployment",
+      "UnauthRoleName": "amplify-lalalsadmin-dev-120824-unauthRole",
+      "StackName": "amplify-lalalsadmin-dev-120824",
+      "StackId": "arn:aws:cloudformation:us-east-1:796402771254:stack/amplify-lalalsadmin-dev-120824/d649de70-c715-11ee-b39f-0e334a3035e3",
+      "AmplifyAppId": "d3i1iprduypudr"
+    },
+    "categories": {
+      "auth": {
+        "lalalsadmin78c990aa78c990aa": {}
+      }
+    }
+  }
+}

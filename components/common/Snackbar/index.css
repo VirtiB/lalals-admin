@@ -1,0 +1,19 @@
+.MuiSnackbar-root {
+  .MuiPaper-root {
+    background-color: var(--white);
+    flex-direction: row-reverse;
+    border-radius: 0;
+    .MuiSnackbarContent-message {
+      flex: 1;
+    }
+    .MuiSnackbarContent-action {
+      margin-right: 8px;
+      padding-left: 0px;
+    }
+  }
+  &.error {
+    .MuiSnackbarContent-message {
+      color: var(--red);
+    }
+  }
+}

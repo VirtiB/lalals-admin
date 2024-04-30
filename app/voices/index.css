@@ -1,0 +1,7 @@
+.voices-table .MuiDataGrid-row {
+  margin-bottom: 19px;
+}
+
+.voices-table .MuiDataGrid-row:first-child {
+  margin-top: 10px;
+}
